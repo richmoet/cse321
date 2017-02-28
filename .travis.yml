@@ -1,6 +1,4 @@
-language: java
-install: ant deps
-jdk:
-  - oraclejdk8
-  - oraclejdk7
-  - openjdk6
+{
+  "language": "java",
+  "script": "ant main"
+}
