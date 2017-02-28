@@ -1,0 +1,3 @@
+INTERPRETER_TYPE=Cygwin
+PERL_EXECUTABLE=perl
+eclipse.preferences.version=1
